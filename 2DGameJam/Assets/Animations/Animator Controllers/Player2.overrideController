@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player2
+  m_Controller: {fileID: 9100000, guid: 1dc6b76963c26404c81afebff89023a6, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 2378793c3a3933b43bac75e024dcfc2d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cb7930739b6eada4a814b8669aed2e62, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e4ba81e0578a65e49b7493457eb38e85, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0b82c821f36755b4ca736ec54fccd9d2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 824805124de96924baedcb88a7abe97a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ac374a436119f20458eac9f4cf3e7986, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 778028343a5b6b14e8f278de68da5996, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d3473ab028ab306499ac0ddc722d1bb4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7f9df7306c92fb945a2da0439b95798d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ea72480a06d31234d8acf7fa93700f24, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4445a089be765174d8865a974e64197e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 60b04b8158dec3644a5411c010537653, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0513a9100187af34c85e2f74fe14ad1f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 66c3897211f296e4cb2a0a5b577bfb2b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5a93d819d7cd7c342b2936183c305335, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 27a1ad42554abc642bd7b8ec1de5f976, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4f45f4524d596ff46b73f6b6cd33a623, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1d87af07f85632b4fbc39ae6f2fbeac5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 860adc4e394aed54ba6361a3dbafb06f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fa94ab99f26c8b046b00a1cabc3747de, type: 2}
